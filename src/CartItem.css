@@ -1,0 +1,18 @@
+.cart-item{
+    height: 30vh;
+    width: 30vw;
+}
+.item-left{
+    display: inline-block;
+    height: 7rem;
+    width: 7rem;
+}
+.item-image{
+    background-color: grey;
+    height: 100%;
+    width: 100%;
+}
+.item-right{
+    display: inline-block;
+    padding-left: 1rem;
+}
