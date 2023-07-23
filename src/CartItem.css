@@ -8,11 +8,17 @@
     width: 7rem;
 }
 .item-image{
-    background-color: grey;
+    background-color: white;
     height: 100%;
     width: 100%;
 }
 .item-right{
     display: inline-block;
     padding-left: 1rem;
+}
+.item-buttons{
+    width: 4rem;
+    display: flex;
+    margin: 0.5rem 0;
+    justify-content: space-between;
 }
